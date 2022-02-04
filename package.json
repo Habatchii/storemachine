@@ -1,0 +1,24 @@
+{
+  "name": "storebusinessmachines",
+  "version": "1.0.0",
+  "description": "Store Business Machines repository for Billfold Technologies personal business machines.",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "18.12.0",
+    "octokit": "1.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [
+    "storebusinessmachines",
+    "storemachine",
+    "store-machine",
+    "store.machine",
+    "store_machine"
+  ]
+}
